@@ -14,4 +14,4 @@ FoodLoop is a Flutter-based mobile application engineered to bridge the logistic
 - **APIs**: Google Maps Platform (Geocoding & Directions)
 
 ---
-*Refer to the [Architecture Guidelines](/docs/architecture.md) for technical specifications.*
+*Refer to the [Architecture Guidelines](docs/architecture.md) for technical specifications.*
