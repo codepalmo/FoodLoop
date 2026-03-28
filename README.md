@@ -15,4 +15,3 @@ FoodLoop is a Flutter-based mobile application engineered to bridge the logistic
 
 ---
 ---
-*Refer to [Architecture Guidelines](docs/architecture.md) for technical specifications.*
